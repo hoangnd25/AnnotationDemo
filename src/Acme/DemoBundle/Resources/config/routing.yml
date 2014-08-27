@@ -1,0 +1,3 @@
+_annotation:
+    resource: "@AcmeDemoBundle/Controller/AnnotationDemoController.php"
+    type:     annotation
